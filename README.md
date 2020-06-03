@@ -9,7 +9,7 @@ LIFF application that allows you to write a picture on the canvas and send it to
     - [Git](https://git-scm.com/)
     - [Node.js](https://nodejs.org/en/)
 
-2. Clone the [line-liff-drawing]https://github.com/yuuulf/line-liff-drawing) GitHub repository.
+2. Clone the [line-liff-drawing](https://github.com/yuuulf/line-liff-drawing) GitHub repository.
 
     ```shell
     git clone https://github.com/yuuulf/line-liff-drawing
@@ -27,7 +27,7 @@ LIFF application that allows you to write a picture on the canvas and send it to
 
 2. Take a note of your LIFF ID, because you'll need it for the next part. The LIFF ID is the final part of the LIFF URL shown in the console: `line://app/{liffId}`
 
-3. Set your LIFF ID to the `defaultLiffId` variable in `public/liff-drawing.js`.
+3. Set your LIFF ID to the `defaultLiffId` variable in `public/liff.js`.
     ```shell
     const defaultLiffId = "{liffId}"; 
     ```

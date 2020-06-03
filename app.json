@@ -1,5 +1,5 @@
 {
-    "name": "LINE LIFF v2 Starter",
-    "description": "Sample LIFF v2 application",
-    "repository": "https://github.com/line/line-liff-v2-starter"
+    "name": "LINE LIFF Drawing",
+    "description": "LIFF application that allows you to write a picture on the canvas and send it to the talk room",
+    "repository": "https://github.com/yuuulf/line-liff-drawing"
 }
