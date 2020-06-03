@@ -1,0 +1,4 @@
+node_modules
+
+public/upload/images/*
+!public/upload/images/.keep
